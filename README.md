@@ -1,6 +1,6 @@
 # Cinematica Movie Answer Bot for calling IMDb APIs by using Langchain ReAct agent
 
-Cinematica is made using Langchain 'ReAct' agent for function calling different API's for receiving the data from IMDb.
+Cinematica is made using Langchain 'ReAct' agent for function calling different API's for receiving the data from IMDb. This project is a fork of the main repository, collaboratively built by me and my friends.
 
 Link to the deployed version: https://movie-langchain-agent.vercel.app
 
